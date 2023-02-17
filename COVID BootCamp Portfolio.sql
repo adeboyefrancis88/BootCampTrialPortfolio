@@ -1,3 +1,6 @@
+--DATA EXPLORATION of COVID-19 DATASET
+
+
 create database portfolioCovidproject
 
 use portfolioCovidproject
